@@ -37,7 +37,9 @@
                     </a-tooltip>
                 </a-input-group>
             </a-space>
-          <water-fall :GetColor="valueCode" :GetSelect="selectColor" :GetVisible="visible" />
+            <a-skeleton avatar active :loading="loading" :paragraph="{ rows: 6 }">
+                <water-fall :GetColor="valueCode" :GetSelect="selectColor" :GetVisible="visible" />
+            </a-skeleton>
         </a-drawer>
     </div>
 </template>
@@ -56,6 +58,7 @@
             const color = ref('rgba(19, 206, 102, 0.8)');
             const color2 = ref('rgba(177, 15, 164, 0.8)');
             const disabled = ref(true);
+            const loading = ref(false);
             const valueCode = ref('');
             const RgbColor = () => {
                 // selectColor.value ==='rgb' ? valueCode.value = color.value : valueCode.value = color2.value;
@@ -66,6 +69,10 @@
                 if(selectColor.value ==='system'){
                     valueCode.value = color2.value;
                     disabled.value = false;
+                }
+                if(valueCode.value === null) {
+                    disabled.value = true;
+                    return
                 }
 
             };
@@ -95,7 +102,13 @@
                 selectColor.value = '选择类型';
                 valueCode.value = '';
                 disabled.value = true;
-                placeholder.value = '请选择类型颜色码'
+                color.value = 'rgba(19, 206, 102, 0.8)';
+                color2.value = 'rgba(177, 15, 164, 0.8)';
+                placeholder.value = '请选择类型颜色码';
+                loading.value = true;
+                setTimeout(() => {
+                    loading.value = false;
+                }, 1000);
 
             };
             const options = ref([{
@@ -133,7 +146,8 @@
                 placeholder,
                 copy,
                 disabled,
-                change
+                change,
+                loading
             };
         },
 

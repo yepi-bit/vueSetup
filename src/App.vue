@@ -16,7 +16,13 @@
     <router-link to="/"><a-button type="danger" ghost>Echarts</a-button></router-link> |
     <router-link to="showText"><a-button type="danger" ghost>ShowText</a-button></router-link> |
     <router-link to="language"><a-button type="danger" ghost>Language</a-button></router-link> |
-    <router-link to="selectColor"><a-button type="danger" ghost>SelectColor</a-button></router-link>
+    <router-link to="selectColor"><a-button type="danger" ghost>SelectColor</a-button></router-link> |
+    <router-link to="calendarMap"><a-button type="danger" ghost>CalendarMap</a-button></router-link> |
+    <router-link to="mouseChange"><a-button type="danger" ghost>MouseChange</a-button></router-link> |
+    <router-link to="step"><a-button type="danger" ghost>Step</a-button></router-link> |
+    <router-link to="router"><a-button type="danger" ghost>Router</a-button></router-link> |
+    <router-link to="spriteFigure"><a-button type="danger" ghost>SpriteFigure</a-button></router-link> |
+    <router-link to="vue3Main"><a-button type="danger" ghost>vue3Main</a-button></router-link>
   </div>
   <a-config-provider :locale="locale === 'en' ? enUS : zhCN">
     <div>

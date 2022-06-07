@@ -22,7 +22,37 @@ const router = createRouter({
         {
             path: '/selectColor',
             name: 'SelectColor',
-            component: () => import(/* webpackChunkName: "about" */ '../views/SelectColor.vue')
+            component: () => import(/* webpackChunkName: "SelectColor" */ '../views/SelectColor.vue')
+        },
+        {
+            path: '/calendarMap',
+            name: 'CalendarMap',
+            component: () => import(/* webpackChunkName: "CalendarMap" */ '../views/CalendarMap.vue')
+        },
+        {
+            path: '/mouseChange',
+            name: 'MouseChange',
+            component: () => import(/* webpackChunkName: "MouseChange" */ '../views/MouseChange.vue')
+        },
+        {
+            path: '/step',
+            name: 'Step',
+            component: () => import(/* webpackChunkName: "Step" */ '../views/Step.vue')
+        },
+        {
+            path: '/router',
+            name: 'Router',
+            component: () => import(/* webpackChunkName: "Router" */ '../views/Router.vue')
+        },
+        {
+            path: '/spriteFigure',
+            name: 'SpriteFigure',
+            component: () => import(/* webpackChunkName: "SpriteFigure" */ '../views/SpriteFigure.vue')
+        },
+        {
+            path: '/vue3Main',
+            name: 'vue3Main',
+            component: () => import(/* webpackChunkName: "SpriteFigure" */ '../views/vue3Main.vue')
         },
     ]
 })

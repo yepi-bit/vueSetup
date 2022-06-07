@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1cde38a5-a707-407b-a725-ea8d126bbfba" name="Default Changelist" comment="" />
+    <list default="true" id="1cde38a5-a707-407b-a725-ea8d126bbfba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vueSetup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/sprite.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Read.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/vDialog.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/vue3Value.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/CalendarMap.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/MouseChange.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Router.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/SpriteFigure.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Step.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/vue3Main.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/waterFall.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/waterFall.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/SelectColor.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/SelectColor.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn-error.log" beforeDir="false" afterPath="$PROJECT_DIR$/yarn-error.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,21 +48,29 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="29bo4viqvjbSvepGL8xtyIKd4BE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/assets" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="D:\功能项目vue\vueSetup\vueSetup\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\功能项目vue\vueSetup\vueSetup\src\assets" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -90,17 +124,53 @@
       <workItem from="1654012427783" duration="1806000" />
       <workItem from="1654014259364" duration="1781000" />
       <workItem from="1654016067659" duration="454000" />
-      <workItem from="1654055244334" duration="1068000" />
+      <workItem from="1654055244334" duration="679000" />
+      <workItem from="1654157894511" duration="27000" />
+      <workItem from="1654157963571" duration="22000" />
+      <workItem from="1654158023887" duration="1603000" />
+      <workItem from="1654160814037" duration="1782000" />
+      <workItem from="1654162632071" duration="1684000" />
+      <workItem from="1654171556173" duration="1784000" />
+      <workItem from="1654173364546" duration="1444000" />
+      <workItem from="1654174832902" duration="2008000" />
+      <workItem from="1654177525827" duration="1750000" />
+      <workItem from="1654240403472" duration="1776000" />
+      <workItem from="1654242213106" duration="1154000" />
+      <workItem from="1654265779469" duration="1921000" />
+      <workItem from="1654267835042" duration="1723000" />
+      <workItem from="1654269584321" duration="1793000" />
+      <workItem from="1654274037907" duration="910000" />
+      <workItem from="1654508624561" duration="16000" />
+      <workItem from="1654508663194" duration="1780000" />
+      <workItem from="1654510647609" duration="1854000" />
+      <workItem from="1654512535465" duration="1617000" />
+      <workItem from="1654518280582" duration="1711000" />
+      <workItem from="1654521129344" duration="263000" />
+      <workItem from="1654608033060" duration="108000" />
+      <workItem from="1654616137217" duration="1752000" />
+      <workItem from="1654617942839" duration="1788000" />
+      <workItem from="1654619763598" duration="557000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="627" y="209" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1654620243015">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="209" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654620243015" />
     <state x="532" y="237" key="run.anything.popup" timestamp="1653889421006">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="532" y="237" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1653889421006" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1654509718016">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1654509718016" />
   </component>
 </project>

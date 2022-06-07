@@ -1,5 +1,5 @@
 Arguments: 
-  E:\node\node.exe C:\Users\王泰健\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add @ant-design/icons-vue
+  E:\node\node.exe C:\Users\王泰健\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add vue3-calendar-heatmap
 
 PATH: 
   D:\功能项目vue\vueSetup\vueSetup\node_modules\.bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;E:\JAVA\jdk1.8.0_261\bin;E:\Maven\apache-maven-3.6.3\bin;E:\JAVA\jdk1.8.0_261\bin;E:\JAVA\jdk1.8.0_261\jre\bin;E:\Tomcat\apache-tomcat-9.0.2\apache-tomcat-9.0.2\bin;E:\Python\Scripts;E:\Matlab2\runtime\win64;E:\Matlab2016\bin;E:\Keil\C51\runtime\win64;E:\Keil\C51\bin;E:\Keil\C51\polyspace\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;E:\Git\Git\cmd;C:\Program Files\dotnet\;E:\node\;E:\Matlab2\bin;E:\Anaconda1;E:\Anaconda1\Library\mingw-w64\bin;E:\Anaconda1\Library\usr\bin;E:\Anaconda1\Library\bin;E:\Anaconda1\Scripts;C:\Users\王泰健\AppData\Local\Programs\Python\Python36\Scripts\;C:\Users\王泰健\AppData\Local\Programs\Python\Python36\;E:\Python\Scripts\;E:\Python\;C:\Users\王泰健\AppData\Local\Microsoft\WindowsApps;E:\WebStorm-2019.3.3\WebStorm 2019.3.3\bin;;E:\IDEA\IntelliJ IDEA 2019.3.3\bin;;E:\Pycharm\PyCharm 2020.1\bin;;E:\VsCode\Microsoft VS Code\bin;C:\Users\王泰健\.dotnet\tools;C:\Users\王泰健\AppData\Roaming\npm
@@ -26,6 +26,7 @@ npm manifest:
       "preview": "vite preview"
     },
     "dependencies": {
+      "@ant-design/icons-vue": "^6.1.0",
       "ant-design-vue": "^3.2.5",
       "dayjs": "^1.11.2",
       "echarts": "^5.3.2",

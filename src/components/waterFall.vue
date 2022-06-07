@@ -66,7 +66,7 @@ export default {
   },
   computed: {
     colorSwitch() {
-      if ((this.GetSelect === 'system' || this.GetSelect === 'rgb') && this.GetColor.length !== 0) {
+      if ((this.GetSelect === 'system' || this.GetSelect === 'rgb') && this.GetColor?.length !== 0) {
         return  this.GetColor
       } else {
         return this.GetVisible === true ? this.onBg() : '' // 设置随机颜色
