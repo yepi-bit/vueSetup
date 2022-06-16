@@ -22,7 +22,8 @@
     <router-link to="step"><a-button type="danger" ghost>Step</a-button></router-link> |
     <router-link to="router"><a-button type="danger" ghost>Router</a-button></router-link> |
     <router-link to="spriteFigure"><a-button type="danger" ghost>SpriteFigure</a-button></router-link> |
-    <router-link to="vue3Main"><a-button type="danger" ghost>vue3Main</a-button></router-link>
+    <router-link to="vue3Main"><a-button type="danger" ghost>vue3Main</a-button></router-link> |
+    <router-link to="scroll"><a-button type="danger" ghost>Scroll</a-button></router-link>
   </div>
   <a-config-provider :locale="locale === 'en' ? enUS : zhCN">
     <div>

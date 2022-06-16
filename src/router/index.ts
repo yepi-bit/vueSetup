@@ -54,6 +54,11 @@ const router = createRouter({
             name: 'vue3Main',
             component: () => import(/* webpackChunkName: "SpriteFigure" */ '../views/vue3Main.vue')
         },
+        {
+            path: '/scroll',
+            name: 'Scroll',
+            component: () => import(/* webpackChunkName: "SpriteFigure" */ '../views/Scroll.vue')
+        },
     ]
 })
 

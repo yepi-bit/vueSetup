@@ -2,31 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cde38a5-a707-407b-a725-ea8d126bbfba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vueSetup.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/assets/sprite.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Read.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/vDialog.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/vue3Value.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/CalendarMap.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/MouseChange.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Router.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/SpriteFigure.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Step.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/vue3Main.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Scroll.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/waterFall.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/waterFall.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/SelectColor.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/SelectColor.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn-error.log" beforeDir="false" afterPath="$PROJECT_DIR$/yarn-error.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +49,7 @@
       <recent name="D:\功能项目vue\vueSetup\vueSetup\src\assets" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -149,12 +128,18 @@
       <workItem from="1654608033060" duration="108000" />
       <workItem from="1654616137217" duration="1752000" />
       <workItem from="1654617942839" duration="1788000" />
-      <workItem from="1654619763598" duration="557000" />
+      <workItem from="1654619763598" duration="991000" />
+      <workItem from="1655286510421" duration="3000" />
+      <workItem from="1655294928280" duration="5000" />
+      <workItem from="1655295040144" duration="6000" />
+      <workItem from="1655295676252" duration="15000" />
+      <workItem from="1655307452210" duration="38000" />
+      <workItem from="1655387077226" duration="1783000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
