@@ -14,6 +14,7 @@
   </div>
   <div>
     <router-link to="/"><a-button type="danger" ghost>Echarts</a-button></router-link> |
+    <router-link to="pieChart"><a-button type="danger" ghost>PieChart</a-button></router-link> |
     <router-link to="showText"><a-button type="danger" ghost>ShowText</a-button></router-link> |
     <router-link to="language"><a-button type="danger" ghost>Language</a-button></router-link> |
     <router-link to="selectColor"><a-button type="danger" ghost>SelectColor</a-button></router-link> |
@@ -23,7 +24,10 @@
     <router-link to="router"><a-button type="danger" ghost>Router</a-button></router-link> |
     <router-link to="spriteFigure"><a-button type="danger" ghost>SpriteFigure</a-button></router-link> |
     <router-link to="vue3Main"><a-button type="danger" ghost>vue3Main</a-button></router-link> |
-    <router-link to="scroll"><a-button type="danger" ghost>Scroll</a-button></router-link>
+    <router-link to="scroll"><a-button type="danger" ghost>Scroll</a-button></router-link> |
+    <router-link to="timer"><a-button type="danger" ghost>Timer</a-button></router-link> |
+    <router-link to="codeMirror"><a-button type="danger" ghost>CodeMirror</a-button></router-link> |
+    <router-link to="navScreen"><a-button type="danger" ghost>NavScreen</a-button></router-link>
   </div>
   <a-config-provider :locale="locale === 'en' ? enUS : zhCN">
     <div>

@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cde38a5-a707-407b-a725-ea8d126bbfba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/views/Scroll.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/screenFull.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/CodeMirror.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/NavScreen.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/PieChart.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Timer.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +29,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -135,6 +150,10 @@
       <workItem from="1655295676252" duration="15000" />
       <workItem from="1655307452210" duration="38000" />
       <workItem from="1655387077226" duration="1783000" />
+      <workItem from="1655745296976" duration="1239000" />
+      <workItem from="1655994769048" duration="5524000" />
+      <workItem from="1656043738840" duration="3480000" />
+      <workItem from="1656047262610" duration="2419000" />
     </task>
     <servers />
   </component>
@@ -143,19 +162,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="627" y="209" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1654620243015">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="627" y="209" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1654620243015" />
-    <state x="532" y="237" key="run.anything.popup" timestamp="1653889421006">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="532" y="237" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1653889421006" />
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1654509718016">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1654509718016" />
   </component>
 </project>

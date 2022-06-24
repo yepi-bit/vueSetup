@@ -9,9 +9,11 @@
   "dependencies": {
     "@ant-design/icons-vue": "^6.1.0",
     "ant-design-vue": "^3.2.5",
+    "codemirror": "^5.49.2",
     "dayjs": "^1.11.2",
     "echarts": "^5.3.2",
     "element-plus": "^2.2.2",
+    "screenfull": "4.2.0",
     "vue": "^3.2.25",
     "vue-router": "4",
     "vue3-calendar-heatmap": "^2.0.0"

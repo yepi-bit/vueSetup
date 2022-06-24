@@ -10,6 +10,11 @@ const router = createRouter({
             component: Echarts
         },
         {
+            path: '/pieChart',
+            name: 'PieChart',
+            component: () => import(/* webpackChunkName: "about" */ '../views/PieChart.vue')
+        },
+        {
             path: '/showText',
             name: 'ShowText',
             component: () => import(/* webpackChunkName: "about" */ '../views/ShowText.vue')
@@ -47,18 +52,33 @@ const router = createRouter({
         {
             path: '/spriteFigure',
             name: 'SpriteFigure',
-            component: () => import(/* webpackChunkName: "SpriteFigure" */ '../views/SpriteFigure.vue')
+            component: () => import(  '../views/SpriteFigure.vue')
         },
         {
             path: '/vue3Main',
             name: 'vue3Main',
-            component: () => import(/* webpackChunkName: "SpriteFigure" */ '../views/vue3Main.vue')
+            component: () => import(  '../views/vue3Main.vue')
         },
         {
             path: '/scroll',
             name: 'Scroll',
-            component: () => import(/* webpackChunkName: "SpriteFigure" */ '../views/Scroll.vue')
+            component: () => import(  '../views/Scroll.vue')
         },
+        {
+            path: '/timer',
+            name: 'Timer',
+            component: () => import(  '../views/Timer.vue')
+        },
+        {
+            path: '/codeMirror',
+            name: 'CodeMirror',
+            component: () => import(  '../views/CodeMirror.vue')
+        },
+        {
+            path: '/navScreen',
+            name: 'NavScreen',
+            component: () => import(  '../views/NavScreen.vue')
+        }
     ]
 })
 
