@@ -78,6 +78,16 @@ const router = createRouter({
             path: '/navScreen',
             name: 'NavScreen',
             component: () => import(  '../views/NavScreen.vue')
+        },
+        {
+            path: '/canvasPen',
+            name: 'canvasPen',
+            component: () => import(  '../views/CanvasPen.vue')
+        },
+        {
+            path: '/qs',
+            name: 'qs',
+            component: () => import(  '../views/Qs.vue')
         }
     ]
 })

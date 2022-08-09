@@ -13,11 +13,10 @@
     });
     const emit = defineEmits(["getMsg"]);
     const postMsg = () => {
-        emit('getMsg', '向父组件传值')
+        emit('getMsg', '向父组件传值22222')
     };
     const msg2 = inject('msg2'); //接收参数
     console.log(msg2)
-
 </script>
 
 <style scoped>

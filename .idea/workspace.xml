@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cde38a5-a707-407b-a725-ea8d126bbfba" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/screenFull.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/CodeMirror.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/NavScreen.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/PieChart.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/Timer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/CanvasPen.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/views/Qs.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/vue3Value.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/vue3Value.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/router/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/router/index.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/vue3Main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/vue3Main.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,6 +150,20 @@
       <workItem from="1655994769048" duration="5524000" />
       <workItem from="1656043738840" duration="3480000" />
       <workItem from="1656047262610" duration="2419000" />
+      <workItem from="1656068370735" duration="401000" />
+      <workItem from="1656383519057" duration="53000" />
+      <workItem from="1656384805353" duration="98000" />
+      <workItem from="1656767422273" duration="256000" />
+      <workItem from="1656767719743" duration="1790000" />
+      <workItem from="1656941685543" duration="2976000" />
+      <workItem from="1656981643360" duration="63000" />
+      <workItem from="1656981751777" duration="803000" />
+      <workItem from="1657287573880" duration="515000" />
+      <workItem from="1658567108704" duration="1018000" />
+      <workItem from="1658579866394" duration="15000" />
+      <workItem from="1658599300771" duration="40000" />
+      <workItem from="1659943533482" duration="6552000" />
+      <workItem from="1660008239295" duration="2509000" />
     </task>
     <servers />
   </component>

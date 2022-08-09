@@ -10,6 +10,7 @@
 
     const msg = ref('父传给子组件的信息');
     const getmsg = (msg) => {
+      alert(msg)
         console.log(msg)
     };
 

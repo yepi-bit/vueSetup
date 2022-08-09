@@ -27,7 +27,9 @@
     <router-link to="scroll"><a-button type="danger" ghost>Scroll</a-button></router-link> |
     <router-link to="timer"><a-button type="danger" ghost>Timer</a-button></router-link> |
     <router-link to="codeMirror"><a-button type="danger" ghost>CodeMirror</a-button></router-link> |
-    <router-link to="navScreen"><a-button type="danger" ghost>NavScreen</a-button></router-link>
+    <router-link to="navScreen"><a-button type="danger" ghost>NavScreen</a-button></router-link> |
+    <router-link to="canvasPen"><a-button type="danger" ghost>CanvasPen</a-button></router-link> |
+    <router-link to="qs"><a-button type="danger" ghost>Qs</a-button></router-link>
   </div>
   <a-config-provider :locale="locale === 'en' ? enUS : zhCN">
     <div>
